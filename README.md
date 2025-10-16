@@ -39,27 +39,25 @@ I also lead and inspire — as **President of NSS**, **Vice-President (PR) at To
 
 ## Featured Projects
 
-### [3D Sign Language Generator](#)
+### 🎥 [3D Sign Language Generator](https://github.com/arAkhil019/3d-sign-language-generator)
 **Tech:** Mediapipe · Hugging Face · Firebase · Blender  
 - AI-powered web app translating **YouTube captions into 3D sign language**, enhancing accessibility for challenged communities.  
-- Real-time hand sign animation via **ML coordinate mapping** and **Blender-based 3D rendering**.  
-📎 [Source Code](#handPoints)
+📎 [Source Code](https://github.com/arAkhil019/3d-sign-gen)
 
 ---
 
-### [Placerly](#)
+### 🧾 [Placerly](https://github.com/arAkhil019/Placerly)
 **Tech:** Next.js · Firebase · Shadcn UI  
-- **Student ID scan-based attendance tracker** with role-based access and CSV/Excel export.  
-- Reduced manual work by **80%**, added **pattern-based search optimization** for roll numbers, and optimized Firebase reads/writes.  
-📎 [Live Demo](#www.placerly.web.app) · [Source Code](#plcmt-mngt)
+- Student ID scan-based attendance tracker with role-based access and exportable CSV reports.  
+📎 [Live Demo](https://placerly.web.app) · [Source Code](https://github.com/arAkhil019/plcmt-mngt)
 
 ---
 
-### [NAP Management System](#)
+### 🧭 [NAP Management System](https://github.com/arAkhil019/NAP-System)
 **Tech:** React · Firebase · Shadcn UI  
-- Built a **Volunteer NAP Points Management System** with real-time updates and secure role access.  
-- Integrated **barcode-based volunteer tracking** and a clean, intuitive UI for event managers.  
-📎 [Live Demo](#) · [Source Code](#www.github.com/arAkhil019/nap-system)
+- Real-time NAP point tracking and barcode-based volunteer management system.  
+📎 [Source Code](https://github.com/arAkhil019/nap-system)
+
 
 ---
 
